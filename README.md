@@ -1,1 +1,1 @@
-# AnalyticalSolutionWaveEquation
+# Analytical Solution of Wave Equation
